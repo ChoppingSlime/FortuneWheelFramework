@@ -85,15 +85,7 @@ Each `WheelEntry` represents an item on the wheel and has these properties:
 - `WheelMenu.cs`: Handles UI rendering and wheel animation
 - `ModEntry.cs`: SMAPI entry point and API registration
 
-## Example Implementation
-
-See `SampleUsage.cs` for a complete example of how another mod could implement the Fortune Wheel.
-
 ## Compatibility
 
 - Stardew Valley 1.5.6 or later
-- SMAPI 3.0.0 or later
-
-## License
-
-This mod is released under the MIT License.
+- SMAPI 4.0.0 or later
